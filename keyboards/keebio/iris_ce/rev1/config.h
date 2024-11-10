@@ -26,7 +26,6 @@
 #define SPLIT_LED_STATE_ENABLE 									// ensures the current host indicator state (caps/num/scroll) is available on the slave when using the QMK-provided split transport
 // #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD						// active Caps Word by pressing Left Shift + Right Shift
 
-
 /*
 			┌──────────────────────────────┐
 			│      RGB MATRIX OPTIONS      │
